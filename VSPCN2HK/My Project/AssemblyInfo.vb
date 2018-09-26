@@ -6,13 +6,13 @@ Imports System.Runtime.InteropServices
 ' General Information about an assembly is controlled through the following 
 ' set of attributes. Change these attribute values to modify the information
 ' associated with an assembly.
-<Assembly: AssemblyTitle("VSPCN2HK")>
-<Assembly: AssemblyDescription("")>
+<Assembly: AssemblyTitle("简繁转换插件")>
+<Assembly: AssemblyDescription("简繁转换插件")>
 <Assembly: AssemblyConfiguration("")>
-<Assembly: AssemblyCompany("")>
-<Assembly: AssemblyProduct("VSPCN2HK")>
-<Assembly: AssemblyCopyright("")>
-<Assembly: AssemblyTrademark("")>
+<Assembly: AssemblyCompany("算神工作室")>
+<Assembly: AssemblyProduct("简繁转换插件")>
+<Assembly: AssemblyCopyright("算神工作室")>
+<Assembly: AssemblyTrademark("算神工作室")>
 <Assembly: AssemblyCulture("")>
 
 ' Setting ComVisible to false makes the types in this assembly not visible 
@@ -30,5 +30,5 @@ Imports System.Runtime.InteropServices
 ' You can specify all the values or you can default the Build and Revision Numbers 
 ' by using the '*' as shown below:
 ' [assembly: AssemblyVersion("1.0.*")]
-<Assembly: AssemblyVersion("1.0.0.0")>
-<Assembly: AssemblyFileVersion("1.0.0.0")>
+<Assembly: AssemblyVersion("1.1.0.0")>
+<Assembly: AssemblyFileVersion("1.1.0.0")>
