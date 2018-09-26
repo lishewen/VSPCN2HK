@@ -63,7 +63,7 @@
         <Parent guid="guidVSPCN2HKPackageCmdSet" id="MyMenuGroup" />
         <Icon guid="guidImages" id="bmpPicSearch" />
         <Strings>
-          <ButtonText>簡體轉繁體</ButtonText>
+          <ButtonText>繁體轉簡體</ButtonText>
         </Strings>
       </Button>
     </Buttons>

@@ -1,16 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
-        <Identity Id="VSPCN2HK.30e2c883-9e00-4f6a-9d6a-21188eb1908c" Version="1.1" Language="zh-CN" Publisher="算神" />
+        <Identity Id="VSPCN2HK.30e2c883-9e00-4f6a-9d6a-21188eb1908c" Version="1.1.1" Language="zh-CN" Publisher="算神" />
         <DisplayName>简繁转换插件</DisplayName>
-        <Description xml:space="preserve">简繁转换工具 For Visual Studio 2017
-Simplified Chinese And Traditional Chinese Conversion Tool For Visual Studio 2017
-功能描述：
-1、将当前选中的内容或打开的文档转换为繁体中文
-2、将当前选中的内容或打开的文档转换为简体中文
-Description:
-1、The contents of the currently selected or opendocuments into Traditional Chinese
-2、The contents ofthe currently selected or open documents into SimplifiedChinese</Description>
+        <Description xml:space="preserve">Simplified Chinese And Traditional Chinese Conversion Tool For Visual Studio 2017</Description>
         <MoreInfo>http://blog.lishewen.com/</MoreInfo>
         <Icon>Resources\VSPCN2HKPackage.ico</Icon>
         <PreviewImage>QQ%E6%88%AA%E5%9B%BE20130714024905.jpg</PreviewImage>
